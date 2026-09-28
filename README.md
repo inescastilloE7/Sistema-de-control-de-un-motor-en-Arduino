@@ -4,7 +4,7 @@ Proyecto desarrollado en Tinkercad para controlar la velocidad de un motor DC me
 
 ## Archivos del proyecto
 
-- [Reporte](A2.1 Equipo 7.pdf)
+- [Reporte](A2.1_Equipo_7.pdf)
 - [Código](ControlMotorDC.ino)
-- [Conexiones](Diagrama de conexiones.pdf)
-- [Video del sistema operacional](Video del sistema operacional.mp4)
+- [Conexiones](Diagrama_de_conexiones.pdf)
+- [Video del sistema operacional](Video_del_sistema_operacional.mp4)
