@@ -5,6 +5,6 @@ Proyecto desarrollado en Tinkercad para controlar la dirección de movimiento de
 ## Archivos del proyecto
 
 - [Reporte](A2.1_Equipo_7.pdf)
-- [Código](ControlMotorDC.ino)
+- [Código](ControlMotoresDC.ino)
 - [Conexiones](Diagrama_de_conexiones.pdf)
 - [Video del sistema operacional](Video_del_sistema_operacional.mp4)
